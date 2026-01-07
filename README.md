@@ -29,3 +29,18 @@ This project is a C program that reads text files and displays either complete d
 ### Compile
 ```bash
 gcc cproject1.c -o viewer
+
+
+---
+
+
+
+
+
+## 🎯 Learning Outcomes
+- Understanding file handling in C
+- Reading files line-by-line using `fgets`
+- Searching text using string functions
+- Implementing conditional logic for data filtering
+- Structuring real-world file-based programs
+
