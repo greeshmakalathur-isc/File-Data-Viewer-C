@@ -1,0 +1,39 @@
+Student ID: 2001 Name: person1 Branch: IT Admission Year: 2022 City: Ahmedabad
+
+Student ID: 2002 Name: person2 Branch: CSE Admission Year: 2023 City: Chennai
+
+Student ID: 2001 Name: person3 Branch: IT Admission Year: 2022 City: Ahmedabad
+
+Student ID: 2002 Name: person4 Branch: CSE Admission Year: 2023 City: Chennai
+
+Student ID: 2001 Name: person5 Branch: IT Admission Year: 2022 City: Ahmedabad
+
+Student ID: 2002 Name: person6 Branch: CSE Admission Year: 2023 City: Chennai
+
+Student ID: 2001 Name: person7 Branch: IT Admission Year: 2022 City: Ahmedabad
+
+Student ID: 2002 Name: person8 Branch: CSE Admission Year: 2023 City: Chennai
+
+Student ID: 2001 Name: person9 Branch: IT Admission Year: 2022 City: Ahmedabad
+
+Student ID: 2002 Name: person10 Branch: CSE Admission Year: 2023 City: Chennai
+
+Student ID: 2001 Name: person11 Branch: IT Admission Year: 2022 City: Ahmedabad
+
+Student ID: 2002 Name: person12 Branch: CSE Admission Year: 2023 City: Chennai
+
+Student ID: 2001 Name: person13 Branch: IT Admission Year: 2022 City: Ahmedabad
+
+Student ID: 2002 Name: person14 Branch: CSE Admission Year: 2023 City: Chennai
+
+Student ID: 2001 Name: person15 Branch: IT Admission Year: 2022 City: Ahmedabad
+
+Student ID: 2002 Name: person16 Branch: CSE Admission Year: 2023 City: Chennai
+
+Student ID: 2001 Name: person17 Branch: IT Admission Year: 2022 City: Ahmedabad
+
+Student ID: 2002 Name: person18 Branch: CSE Admission Year: 2023 City: Chennai
+
+Student ID: 2001 Name: person19 Branch: IT Admission Year: 2022 City: Ahmedabad
+
+Student ID: 2002 Name: person20 Branch: CSE Admission Year: 2023 City: Chennai

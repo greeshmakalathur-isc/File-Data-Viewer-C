@@ -1,0 +1,5 @@
+C language is powerful
+Linux is used for system programming
+Search engines find keywords in files
+C is fast and efficient
+Ubuntu is popular for coding

@@ -1,0 +1,24 @@
+int - Used to declare integer variables.
+float - Used to declare decimal values.
+if - Used for conditional execution.
+else - Used when if condition is false.
+for - Loop used for repeated execution.
+while - Loop that runs while condition is true.
+return - Sends value back to function.
++  - Addition operator.
+-  - Subtraction operator.
+*  - Multiplication operator.
+/  - Division operator.
+%  - Modulus operator (remainder).
+== - Equal to operator.
+!= - Not equal to operator.
+stdio.h - Used for input and output functions.
+stdlib.h - Used for memory allocation.
+string.h - Used for string handling functions.
+math.h - Used for mathematical functions.
+Syntax Error - Error due to wrong syntax.
+Runtime Error - Error during program execution.
+Logical Error - Program runs but gives wrong output.
+Compiler - Converts C code to machine code.
+Interpreter - Executes code line by line.
+
